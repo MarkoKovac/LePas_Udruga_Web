@@ -8,6 +8,11 @@
 .card-link:hover{
     color: rgb(204, 123, 123);
 }
+
+#count1, #count2, #count3{
+    font-size: 50px;
+}
+
 .accordion-button:not(.collapsed){
     border: 1px solid rgb(224, 141, 155,.25);
     background:rgb(240, 174, 174);
